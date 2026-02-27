@@ -1,3 +1,5 @@
+*text = auto
+*.cs text eol=lf
 +.unity merge=unityyamlmerge eol=lf
 +.prefab
 +.asset
